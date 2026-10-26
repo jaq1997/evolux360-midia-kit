@@ -98,7 +98,7 @@ export default function App() {
             className="flex justify-center mb-2"
           >
             <img
-              src="/public/assets/logo-evolux-white.svg"
+              src="/assets/logo-evolux-white.svg"
               alt="Evolux360"
               className="h-10 sm:h-12 w-auto object-contain"
             />

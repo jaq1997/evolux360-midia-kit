@@ -6,7 +6,7 @@ export const Footer: React.FC = () => {
       <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
         <div className="flex items-center gap-3">
           <img
-            src="/public/assets/logo-evolux-white.svg"
+            src="/assets/logo-evolux-white.svg"
             alt="Evolux360"
             className="h-6 w-auto object-contain"
           />

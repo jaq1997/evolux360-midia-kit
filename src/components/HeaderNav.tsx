@@ -16,7 +16,7 @@ export const HeaderNav: React.FC = () => {
         {/* Official Evolux Logo with SVG text in white */}
         <a href="#" className="flex items-center gap-3">
           <img
-            src="/public/assets/logo-evolux-white.svg"
+            src="/assets/logo-evolux-white.svg"
             alt="Evolux360"
             className="h-7 sm:h-9 w-auto object-contain"
           />
