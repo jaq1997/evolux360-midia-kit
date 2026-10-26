@@ -1,0 +1,6 @@
+{
+  "name": "Evolux360 - Mídia Kit & Pitch Imersivo",
+  "description": "Mídia kit imersivo e apresentação estratégica do ecossistema Evolux360, com foco no Evolux Catálogo, expansão Latam, Fecomércio e visão 360 de gestão para PMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
